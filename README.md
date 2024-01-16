@@ -1,2 +1,1 @@
-# openai_streaming
-ChatGPT Streaming Guide
+for README, run file
